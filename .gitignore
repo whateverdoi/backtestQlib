@@ -1,3 +1,6 @@
-/data
-/mlruns
-*.pyc
+*.csv
+data/qlib_data/
+data/processed/
+__pycache__/
+home/
+mlruns/
